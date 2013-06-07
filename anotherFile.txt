@@ -1,5 +1,5 @@
 This is another file for me to play in.
 It's got a few lines...
 
-for thing in ['python','java','erlang']:
+for thing in ['python','java','C++']:
   print 'and a bit of', thing
